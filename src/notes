@@ -1,0 +1,5 @@
+window.location.reload()
+calculations:
+Math.sqrt()
+Math.cbrt()
+Math.pow(eval(input),2)
